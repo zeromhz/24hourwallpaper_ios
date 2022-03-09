@@ -2,42 +2,45 @@
 		"Download All Wallpapers": ""
 	},
 	{
-		"24Hour_Monterey_Bay": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/24Hour_Monterey_Bay-iPad.zip"
+		"24Hour_Monterey_Bay": "24 Hour Monterey Bay"
 	},
 	{
-		"24Hour_Big_Sur": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/24Hour_Big_Sur-iPad.zip"
+		"24Hour_Big_Sur": "24 Hour Big Sur"
 	},
 	{
-		"24Hour_Mojave": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/24Hour_Mojave-iPad.zip"
+		"24Hour_Mojave": "24 Hour Mojave"
 	},
 	{
-		"24Hour_Monument_Valley": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/24Hour_Monument_Valley-iPad.zip"
+		"24Hour_Monument_Valley": "24 Hour Monument Valley"
 	},
 	{
-		"24Hour_Earth": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/24Hour_Earth-iPad.zip"
+		"24Hour_Earth": "24 Hour Earth"
 	},
 	{
-		"24Hour_San_Francisco": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/24Hour_San_Francisco-iPad.zip"
+		"24Hour_White_Sands": "24 Hour White Sands"
+	}
+	{
+		"24Hour_San_Francisco": "24 Hour San Francisco"
 	},
 	{
-		"24Hour_Los_Angeles": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/24Hour_Los_Angeles-iPad.zip"
+		"24Hour_Los_Angeles": "24 Hour Los Angeles"
 	},
 	{
-		"24Hour_New_York_City": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/24Hour_Monterey_Bay-iPad.zip"
+		"24Hour_New_York_City": "24 Hour New York City"
 	},
 	{
-		"24Hour_VLA": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/24Hour_VLA-iPad.zip"
+		"24Hour_VLA": "24 Hour VLA"
 	},
 	{
-		"macOS_Big_Sur": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/macOS_Big_Sur-iPad.zip"
+		"macOS_Big_Sur": "macOS Big Sur"
 	},
 	{
-		"macOS_Catalina": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/macOS_Catalina-iPad.zip"
+		"macOS_Catalina": "macOS Catalina"
 	},
 	{
-		"macOS_Mojave": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/macOS_Mojave-iPad.zip"
+		"macOS_Mojave": "macOS Mojave"
 	},
 	{
-		"macOS_Gradient": "https://github.com/zeromhz/24hourwallpaper_ios/raw/main/Wallpapers/iPad/macOS_Gradient-iPad.zip"
+		"macOS_Gradient": "macOS Gradient"
 	}
 ]
