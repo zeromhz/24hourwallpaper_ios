@@ -1,1 +1,6 @@
-24 Hour Wallpaper for iOS
+# 24 Hour Wallpaper Shortcuts for iPhone & iPad
+## Support Files
+
+This project contains files that support the 24 Hour Wallpaper Shortcuts for iPhone & iPad. To install the shortcuts and utilize these files, please visit our website for links and instructions.
+
+[Install 24 Hour Wallpaper for iPhone & iPad - Instructions](https://jetsoncreative.com/24hourios)
