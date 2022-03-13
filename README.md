@@ -4,4 +4,4 @@ This project contains files that support the 24 Hour Wallpaper Shortcuts for iPh
 
 [Install 24 Hour Wallpaper for iPhone & iPad - Instructions](https://jetsoncreative.com/24hourios)
 
-All files and photography (c) Jetson Creative, 2022, All Rights Reserved. For details please review [https://github.com/zeromhz/24hourwallpaper_ios/blob/main/LICENSE.pdf](LICENSE.pdf in this repository.) 
+All files and photography (c) Jetson Creative, 2022, All Rights Reserved. For details please review [LICENSE.pdf in this repository.](https://github.com/zeromhz/24hourwallpaper_ios/blob/main/LICENSE.pdf) 
