@@ -2,16 +2,10 @@
 		"Download All Wallpapers": ""
 	},
 	{
-		"24Hour_Monterey_Bay": "24 Hour Monterey Bay"
+		"24Hour_Amsterdam": "24 Hour Amsterdam"
 	},
 	{
 		"24Hour_Big_Sur": "24 Hour Big Sur"
-	},
-	{
-		"24Hour_Mojave": "24 Hour Mojave"
-	},
-	{
-		"24Hour_Monument_Valley": "24 Hour Monument Valley"
 	},
 	{
 		"24Hour_Earth": "24 Hour Earth"
@@ -20,16 +14,16 @@
 		"24Hour_Glacier": "24 Hour Glacier National Park"
 	},
 	{
-		"24Hour_Yosemite_Tioga": "24 Hour Yosemite Tioga"
-	},
-	{
-		"24Hour_White_Sands": "24 Hour White Sands"
-	},
-	{
-		"24Hour_San_Francisco": "24 Hour San Francisco"
-	},
-	{
 		"24Hour_Los_Angeles": "24 Hour Los Angeles"
+	},
+	{
+		"24Hour_Mojave": "24 Hour Mojave"
+	},
+	{
+		"24Hour_Monterey_Bay": "24 Hour Monterey Bay"
+	},
+	{
+		"24Hour_Monument_Valley": "24 Hour Monument Valley"
 	},
 	{
 		"24Hour_New_York_City": "24 Hour New York City"
@@ -41,10 +35,16 @@
 		"24Hour_Paris": "24 Hour Paris"
 	},
 	{
-		"24Hour_Amsterdam": "24 Hour Amsterdam"
+		"24Hour_San_Francisco": "24 Hour San Francisco"
 	},
 	{
 		"24Hour_VLA": "24 Hour VLA"
+	},
+	{
+		"24Hour_White_Sands": "24 Hour White Sands"
+	},
+	{
+		"24Hour_Yosemite_Tioga": "24 Hour Yosemite Tioga"
 	},
 	{
 		"macOS_Big_Sur": "macOS Big Sur"
@@ -53,9 +53,9 @@
 		"macOS_Catalina": "macOS Catalina"
 	},
 	{
-		"macOS_Mojave": "macOS Mojave"
+		"macOS_Gradient": "macOS Gradient"
 	},
 	{
-		"macOS_Gradient": "macOS Gradient"
+		"macOS_Mojave": "macOS Mojave"
 	}
 ]
